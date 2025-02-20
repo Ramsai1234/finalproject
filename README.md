@@ -1,18 +1,17 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+AI-Driven Personal Gym Assistant
+
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The AI-Driven Personal Gym Assistant is an advanced fitness application that combines computer vision, AI-powered coaching, and personalized meal planning to enhance the workout experience. The system uses MediaPipe Pose Estimation to provide real-time feedback on exercise form, rep counting, and posture correction. It also integrates an AI chatbot via the Groq Cloud API to assist users with fitness and nutrition-related queries. Additionally, it includes a diet planner using the Spoonacular API, which generates personalized meal recommendations based on caloric intake goals. This project is developed with Streamlit, offering a user-friendly and interactive interface.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+Real-Time Exercise Tracking – Uses MediaPipe Pose Estimation to track workouts and provide posture feedback.
+AI Chatbot for Fitness & Nutrition – Integrates Groq Cloud API to assist users with fitness-related queries.
+Personalized Meal Planning – Fetches diet recommendations via Spoonacular API based on user caloric needs.
+Automated Rep Counting & Form Analysis – Provides real-time performance tracking during workouts.
+User-Friendly Interface – Built using Streamlit, ensuring an interactive and accessible experience.
+Scalable and Flexible – Can be expanded to support additional workout types and diet customization.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
@@ -25,34 +24,49 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 * Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![WhatsApp Image 2025-02-19 at 14 31 14_32db8f3a](https://github.com/user-attachments/assets/dd04daf3-f4e8-4bf0-b2c6-7df50ee9a1d5)
 
 
 ## Output
-
-<!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
+![image](https://github.com/user-attachments/assets/f1c9ffbd-9530-4088-b311-44530ed99fda)
+![image](https://github.com/user-attachments/assets/5d46da44-fe7c-49ee-99bd-8e4b2898e42a)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![image](https://github.com/user-attachments/assets/024944f0-3840-44c3-b7d0-a3093a8c00b9)
+![image](https://github.com/user-attachments/assets/4d6ccb8c-2def-4426-a5ab-8dd55b5cc306)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+![image](https://github.com/user-attachments/assets/df92b02b-b2e8-4c28-85fc-ce119dee876e)
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+Results of AI Personal Trainer & Diet Planner Assistant Project
+1. Exercise Tracking & Pose Estimation
+2. Real-Time Form Correction & Feedback System
+3. Diet Planner & Spoonacular API Integration
+4. AI Chatbot for Fitness & Diet Assistance
+5. Performance & User Experience
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+[1] Nayak, V. (2023). Personal AI Trainer. International Journal For Science Technology And Engineering, 11(5), 4361–4366.
+
+[2]  D, N., & Bargavi, D. S. K. M. (2023). Virtual Fitness Trainer using Artificial Intelligence. International Journal For Science Technology And Engineering, 11(3), 1499–1507.
+
+[3] Sharma, A., & Baloni, D. (2023). Predict The Caloric Expenditure and Pose Estimation Through the Assistance of The Virtual Gym Coach. International Journal of Membrane Science and Technology, 10(1), 1823–1832.
+
+
+[4]uqo, aureen. (2022). AI-Based Quantification of Fitness Activities Using Smartphones. Sustainability, 14(2), 690.
+
+[5]Maher, C., Davis, C. R., Curtis, R. G., Short, C. E., & Murphy, K. J. (2020). A Physical Activity and Diet Program Delivered by Artificially Intelligent Virtual Health Coach: Proof-of-Concept Study. Jmir Mhealth and Uhealth, 8(7).
+
+[6]Zhang, S., Dieciuc, M. A., Dilanchian, A. T., & Boot, W. R. (2022). The development of adherence support messages for an ai-based reminder system. Innovation in Aging, 6(Supplement_1)
+
+[7]Mokmin, N. A. (2020). The Effectiveness of a Personalized Virtual Fitness Trainer in Teaching Physical Education by Applying the Artificial Intelligent Algorithm. 8(5), 258–264
+
+[8]Srinivasan, A., & Madheswari, A. N. (2018). The Role of Smart Personal Assistant for improving personal Healthcare. International Journal of Advanced Engineering, Management and Science, 4(11), 268274.
 
 
 
